@@ -33,7 +33,7 @@
         app:layout_constraintVertical_bias="0.214" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn_temperatura"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -47,7 +47,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btn_dieta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
